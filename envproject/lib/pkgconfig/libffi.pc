@@ -1,0 +1,11 @@
+prefix=/media/pratiti/study/code/Projects/envproject
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/media/pratiti/study/code/Projects/envproject/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.2
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}
