@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: textSummarization
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/PratitiDas/PROJECTS/Text_Summarization
+Author: PratitiDas
+Author-email: pratitidas10.1.92@gmai.com
+Project-URL: Bug Tracker, https://github.com/PratitiDas/PROJECTS/Text_Summarization/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+#Text Summarization Project
